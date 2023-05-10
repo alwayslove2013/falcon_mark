@@ -1,6 +1,6 @@
 import streamlit as st
 from falcon_mark.frontend.const import *
-from falcon_mark.interface import BenchMarkRunner
+# from falcon_mark.interface import BenchMarkRunner
 
 # st.set_page_config(
 #     page_title="Ex-stream-ly Cool App",
